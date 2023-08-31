@@ -4,7 +4,9 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <main className={styles.main}>
-      Landing Page
+      <h1> Olá </h1>
+
+
     </main>
   );
 }
