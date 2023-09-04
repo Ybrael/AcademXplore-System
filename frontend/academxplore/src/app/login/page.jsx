@@ -1,7 +1,11 @@
 export default function Home() {
   return (
-    <main>
+      <div>
+      <main bg="./images/01.jpg">
+
+
       Login Page
-    </main>
+      </main>
+      </div>
   );
 }
